@@ -1,0 +1,9 @@
+c:\users\mateusz\documents\visual studio 2013\Projects\Jednostki\Jednostki\bin\Debug\Jednostki.exe.config
+c:\users\mateusz\documents\visual studio 2013\Projects\Jednostki\Jednostki\bin\Debug\Jednostki.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\Jednostki\Jednostki\bin\Debug\Jednostki.pdb
+c:\users\mateusz\documents\visual studio 2013\Projects\Jednostki\Jednostki\obj\Debug\Jednostki.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2013\Projects\Jednostki\Jednostki\obj\Debug\Jednostki.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2013\Projects\Jednostki\Jednostki\obj\Debug\Jednostki.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2013\Projects\Jednostki\Jednostki\obj\Debug\Jednostki.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\Jednostki\Jednostki\obj\Debug\Jednostki.pdb
+c:\users\mateusz\documents\visual studio 2013\Projects\Jednostki\Jednostki\obj\Debug\Jednostki.MainForm.resources
